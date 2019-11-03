@@ -1,0 +1,22 @@
+{
+  "name": "electron_test",
+  "version": "0.0.1",
+  "description": "Lesson files",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0x21106/Electron_test.git"
+  },
+  "author": "0x21106",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0x21106/Electron_test/issues"
+  },
+  "homepage": "https://github.com/0x21106/Electron_test#readme",
+  "dependencies": {
+    "electron": "^7.0.1"
+  }
+}
