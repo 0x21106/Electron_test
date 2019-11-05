@@ -1,2 +1,2 @@
 # Electron_test
- test for lessons
+ test for learning electronJS
