@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/0x21106/Electron_test#readme",
   "dependencies": {
-    "electron": "^7.0.1"
+    "electron": "^11.5.0"
   }
 }
